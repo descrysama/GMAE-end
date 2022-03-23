@@ -64,7 +64,7 @@ if ($row = 1) {
           </nav>
     </header>
     <div class="container">
-    <h3>Bienvenu(e) <?php echo $prenom;?>.</h3>
+    <h3>Bienvenue <?php echo $prenom;?>.</h3>
         <div class="row">
             <div class="col-md-6 col-12 col-lg-6">
                 <div class="card">
